@@ -10,6 +10,9 @@ I1 (2:17-2:26)
 
 Scl: 2-1-2-2-1-2-2-(B)-2-2-1-2-2-1-2
 
+Vh: b
+Vl: b
+
 I1: Bm,Bm9,Bm,Bm9,Bm
 I2: Bm,Bm9,Bm
 C1, C2, C3: Bm,D,A,Em,G,Bm,D,A,G,A,Bm

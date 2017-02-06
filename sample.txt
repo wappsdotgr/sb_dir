@@ -8,6 +8,9 @@ R2 (mpla-mpla)
 
 Scl: 2-1-2-2-1-2-(2)-2-1-2-2-1-2
 
+Vh: b
+Vl: b
+
 I1: Bm
 C1, C2, C3: Bm,D,A,Em,G,Bm,D,A,G,A,Bm
 R1, R2: Bm,G,B7,Em,G,Bm,Bm,G,B7,Em,G,A,Bm
